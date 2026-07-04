@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-int mian() 
+int main() 
 {
     cout << "moh";
+    return 0;
 }
